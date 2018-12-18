@@ -1,7 +1,7 @@
 # TreeListView
 自定义多层级树型列表
 ## 演示图
-![image](https://github.com/DasinWong/TreeListView/showhow.gif)
+![演示图](https://github.com/DasinWong/TreeListView/blob/master/showhow.gif)
 ## 如何接入
 Project层级下的build.gradle文件
 ```
