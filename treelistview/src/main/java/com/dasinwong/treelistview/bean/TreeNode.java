@@ -9,10 +9,7 @@ public class TreeNode {
     private int nodeLevel; //节点层级（根节点为0）
     private boolean isLeaf; //是否是叶子节点
     private boolean isExpand; //是否展开
-
-    public TreeNode() {
-    }
-
+    
     public TreeNode(String nodeID, String parentNodeID, String nodeContent, int nodeOrder) {
         this.nodeID = nodeID;
         this.parentNodeID = parentNodeID;
