@@ -14,7 +14,7 @@ allprojects {
 ```
 Module层级下的build.gradle文件
 ```
-implementation 'com.github.DasinWong:TreeListView:1.0'
+implementation 'com.github.DasinWong:TreeListView:1.1'
 ```
 ## 如何使用
 布局中添加控件
