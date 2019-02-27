@@ -1,5 +1,5 @@
 # TreeListView
-自定义多层级树型列表
+自定义多层级树型列表（UI空闲时更新）
 ## 演示图
 ![演示图](https://github.com/DasinWong/TreeListView/blob/master/showhow.gif)
 ## 如何接入
